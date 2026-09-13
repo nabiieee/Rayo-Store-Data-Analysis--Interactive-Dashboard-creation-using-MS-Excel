@@ -22,11 +22,11 @@ Rayo Store wants to create an annual sales report for 2025, so that the owner of
 - Verified the data for any missing values and anomalies, and sorted out the same.
 - Made sure the data is consistent and clean with respect to data type, data format, and values used.
 - Created pivot tables according to the questions asked.
-- Merged all pivot tables into one dashboard and applied a slicer to make the <a href="https://github.com/nabiieee/Rayo-Store-Data-Analysis--Interactive-Dashboard-creation-using-MS-Excel/blob/main/rayo-store-dashboard.png">dashboard interactive</a> and dynamic.
+- Merged all pivot tables into one dashboard and applied a slicer to make the <a href="https://github.com/nabiieee/Rayo-Store-Data-Analysis--Interactive-Dashboard-creation-using-MS-Excel/blob/main/rayo-dashboard.png">dashboard interactive</a> and dynamic.
 
 ## **Dashboard**
 
-![Alt text of the image](https://github.com/nabiieee/Rayo-Store-Data-Analysis--Interactive-Dashboard-creation-using-MS-Excel/blob/main/rayo-store-dashboard.png)
+![Alt text of the image](https://github.com/nabiieee/Rayo-Store-Data-Analysis--Interactive-Dashboard-creation-using-MS-Excel/blob/main/rayo-dashboard.png)
 
 ## **Project Insight**
 
