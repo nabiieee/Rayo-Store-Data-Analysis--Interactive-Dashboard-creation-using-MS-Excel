@@ -2,47 +2,39 @@
 
 ## **Project Objective**
 
-Rayo Store wants to create an annual sales report for 2025. So that, the owner of the Rayo store can understand their customers and grow more sales in 2026.
+Rayo Store wants to create an annual sales report for 2025, so that the owner of Rayo Store can understand their customers and grow sales in 2026.
 
 ## **Dataset used**
 - <a href="https://github.com/nabiieee/Rayo-Store-Data-Analysis--Interactive-Dashboard-creation-using-MS-Excel/blob/main/Vrinda%20Store%20Data%20Analysis-Report.xlsx">Rayo Store Data</a>
 
 ## **Questions (KPIs)**
 
-- Compare the sales and orders using single chart.
+- Compare the sales and orders using a single chart.
 - Which month got the highest sales and orders?
-- What are different order status in 2022?
-- List top 10 states contributingto the sales?
+- What are the different order statuses in 2025?
+- List the top 10 states contributing to the sales.
 - Relation between age and gender based on number of orders.
-- Which Channel is contributing maximum to the sales?
+- Which channel is contributing the most to the sales?
 - Highest selling category?
-
-
 
 ## **Process**
 
-- Verify data for any missing values and anomalies, and sort out the same.
-- Made sure data is consistent and clean with respect to data type, data format and values used.
+- Verified the data for any missing values and anomalies, and sorted out the same.
+- Made sure the data is consistent and clean with respect to data type, data format, and values used.
 - Created pivot tables according to the questions asked.
-- Merge all pivot tables into one dashboard and apply slicer to make <a href="https://github.com/Krishnkumar542/Vrinda-Store-Data-Analysis/blob/main/Vrinda%20Store%20Dashboard.png">dashboard interactive</a> and dynamic.
-
-
+- Merged all pivot tables into one dashboard and applied a slicer to make the <a href="[https://github.com/Krishnkumar542/Vrinda-Store-Data-Analysis/blob/main/Vrinda%20Store%20Dashboard.png](https://github.com/nabiieee/Rayo-Store-Data-Analysis--Interactive-Dashboard-creation-using-MS-Excel/blob/main/rayo-store-dashboard.png)">dashboard interactive</a> and dynamic.
 
 ## **Dashboard**
 
 ![Alt text of the image](https://github.com/Krishnkumar542/Vrinda-Store-Data-Analysis/blob/main/Vrinda%20Store%20Dashboard.png)
 
-
-
 ## **Project Insight**
 
-- Women customers are more likely to buy products compared to men (~65%).
-- The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
-- The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
-- The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
-
-
+- Women customers are more likely to buy products than men (~65%).
+- Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states for product buyers.
+- The adult age group (20–49 yrs) contributes the most (~50%) and buys the most products.
+- The maximum number of customer orders come from the Amazon, Flipkart, and Myntra channels.
 
 ## **Final Conclusion:**
 
-To improve sales of Vrinda Store, women customers of the age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh must be targeted by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
+To improve sales at Rayo Store, women customers aged 20–49 living in Maharashtra, Karnataka, and Uttar Pradesh should be targeted with ads, offers, and coupons on Amazon, Flipkart, and Myntra.
