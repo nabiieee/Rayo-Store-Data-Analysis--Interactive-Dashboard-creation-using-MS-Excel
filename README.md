@@ -26,7 +26,7 @@ Rayo Store wants to create an annual sales report for 2025, so that the owner of
 
 ## **Dashboard**
 
-![Alt text of the image]([https://github.com/Krishnkumar542/Vrinda-Store-Data-Analysis/blob/main/Vrinda%20Store%20Dashboard.png](https://github.com/nabiieee/Rayo-Store-Data-Analysis--Interactive-Dashboard-creation-using-MS-Excel/blob/main/rayo-store-dashboard.png))
+![Alt text of the image](https://github.com/nabiieee/Rayo-Store-Data-Analysis--Interactive-Dashboard-creation-using-MS-Excel/blob/main/rayo-store-dashboard.png)
 
 ## **Project Insight**
 
